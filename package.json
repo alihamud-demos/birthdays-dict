@@ -1,0 +1,23 @@
+{
+  "name": "birthdays-dict",
+  "version": "1.0.0",
+  "description": "Gets birthday year. gives age.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihamud-demos/birthdays-dict.git"
+  },
+  "author": "Ali Hamud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alihamud-demos/birthdays-dict/issues"
+  },
+  "homepage": "https://github.com/alihamud-demos/birthdays-dict#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.0.1"
+  }
+}
